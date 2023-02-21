@@ -8,6 +8,9 @@ body{
     margin-top: 20px;
     margin-left: 10px;
 }
+.head{
+    margin-left: 80px;
+}
 hr{
     border-color: yellow;
 }
