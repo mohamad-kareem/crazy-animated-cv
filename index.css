@@ -32,7 +32,7 @@ p{
 #front-layer{
     width: 650px;
     height: 900px;
-    background-color:green;
+    animation: change 5s linear infinite;
     margin: top 10%;;
     margin: auto;
     }
@@ -69,4 +69,18 @@ a{
     color: white;
 }
 
- 
+ @keyframes change{
+
+    0%{
+        background-color: blue;
+    }
+    20%{
+        background-color: red;
+    }
+    40%{
+        background-color:yellow
+    }
+    100%{
+        background-color: aqua;
+    }
+ }
