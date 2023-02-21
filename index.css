@@ -10,29 +10,24 @@ body{
 }
 hr{
     border-color: yellow;
-   
 }
-
-
 h1{
     color:black;
     text-align:center;
     margin-top: 50px;
 }
 h2{ color: black;
-    
 
 }
 p{
     color: white;
     font: size 90px;;
     margin-left: 10px;
- 
 }
 #front-layer{
     width: 650px;
     height: 900px;
-    animation: change 5s linear infinite;
+    animation: change 6s linear infinite;
     margin: top 10%;;
     margin: auto;
     }
@@ -77,8 +72,9 @@ a{
     20%{
         background-color: red;
     }
-    40%{
-        background-color:yellow
+ 
+    60%{
+        background-color: blueviolet;
     }
     100%{
         background-color: aqua;
