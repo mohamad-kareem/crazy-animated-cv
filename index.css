@@ -1,0 +1,72 @@
+body{
+    margin:0;
+    padding:0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+.aboutme{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+hr{
+    border-color: yellow;
+   
+}
+
+
+h1{
+    color:black;
+    text-align:center;
+    margin-top: 50px;
+}
+h2{ color: black;
+    
+
+}
+p{
+    color: white;
+    font: size 90px;;
+    margin-left: 10px;
+ 
+}
+#front-layer{
+    width: 650px;
+    height: 900px;
+    background-color:green;
+    margin: top 10%;;
+    margin: auto;
+    }
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: solid 4px yellow;
+    margin-left: 10px;
+    margin-top: -70px;
+    transition: all 2s ease-in-out;
+}
+.ph:hover{
+    transform:scale(1.5) rotate(360deg);
+}
+ul.a{
+    color: white;
+    margin-left:30px ;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+table j,th ,td{
+ border: 1px solid yellow;
+ color: white;
+ width: 200px;
+ height: 10px;
+
+}
+a{
+    color: white;
+}
+
+ 
