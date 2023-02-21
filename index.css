@@ -44,7 +44,7 @@ img{
     border: solid 4px yellow;
     margin-left: 10px;
     margin-top: -70px;
-    transition: all 2s ease-in-out;
+    transition: all 1s ease-in-out;
 }
 .ph:hover{
     transform:scale(1.5) rotate(360deg);
